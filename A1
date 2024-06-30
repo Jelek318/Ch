@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7373146
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
