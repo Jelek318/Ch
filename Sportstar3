@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNV5JEUexIqXm_h_4FZ1dsFxyiIxPXt8XTAkjbJGupUupYEaLIp1-ica0Nw_XxmKMCw0&usqp=CAU",Sportstars3(A)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
-
+#EXTHTTP:{"Origin": "https://ben.quietlywheat23.shop","Referer":"https://ben.quietlywheat23.shop/","User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"}
+#EXTINF:-1 group-title="LIVE EVENT", indo vs aus
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+https://fhlsport19.1mv.xyz/by07scpx/s2001/v3b/60qnpq7rnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571026.m3u8
