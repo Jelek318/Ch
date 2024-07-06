@@ -1,6 +1,2 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 7" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 7
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7373146
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
+group-title="##🇩🇪EURO2024🇩🇪##",  1 EURO 2024
+https://raw.githubusercontent.com/B-inalm3u-Custom/2024EURO/B-inal22/2024euro15.m3u8sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
