@@ -1,2 +1,4 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7373146
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/8.m3u8
